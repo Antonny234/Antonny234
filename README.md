@@ -50,8 +50,8 @@ I am looking for my first opportunity in technology, especially in backend devel
 ## Contato | Contact
 
 - GitHub: [github.com/Antonny234](https://github.com/Antonny234)
-- E-mail: **adicione seu e-mail aqui**
-- LinkedIn: **adicione seu LinkedIn aqui**
+- E-mail: sntonnygabrieldacostasilva34@gmail.com or(ou) merryvendas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antonny-gabriel-da-costa-silva-4251b0314/
 
 ## Idiomas | Languages
 
