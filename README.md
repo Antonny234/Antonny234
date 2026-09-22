@@ -1,8 +1,5 @@
 # Olá, eu sou Antonny Gabriel! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python+em+formação;Estudante+de+Ciência+da+Computação;Aprendendo+Django+e+desenvolvimento+web;Aberto+a+novas+oportunidades" alt="Apresentação" />
-</div>
 
 ## Sobre mim | About me
 
@@ -58,6 +55,3 @@ I am looking for my first opportunity in technology, especially in backend devel
 - Português: nativo | Native
 - Inglês: intermediário | Intermediate
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonny234&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</div>
