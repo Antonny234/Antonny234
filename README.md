@@ -1,96 +1,63 @@
-# Hello, I'm Antonny! 👋
+# Olá, eu sou Antonny Gabriel! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer+in+formation;Django+Student;Computer+Science+Student;Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python+em+formação;Estudante+de+Ciência+da+Computação;Aprendendo+Django+e+desenvolvimento+web;Aberto+a+novas+oportunidades" alt="Apresentação" />
 </div>
 
-## About me / Sobre mim
+## Sobre mim | About me
 
-I am a Computer Science student at UNFRAN, currently focused on learning and building projects with Python and Django. I am passionate about software development and eager to grow as a junior developer in backend or full-stack development.
+Sou estudante de Ciência da Computação na UNIFRAN e desenvolvedor em formação, com foco atual em **Python, Django e desenvolvimento web**. Gosto de transformar problemas reais em soluções simples e estou construindo meu portfólio por meio de projetos práticos.
 
-Sou estudante de Ciência da Computação pela UNFRAN, atualmente focado em aprender e desenvolver projetos com Python e Django. Tenho paixão por desenvolvimento de software e estou em busca de evoluir como desenvolvedor júnior em backend ou full-stack.
+I am a Computer Science student at UNIFRAN and a developer in training, currently focused on **Python, Django, and web development**. I enjoy turning real-world problems into simple solutions and building my portfolio through practical projects.
 
-## Skills / Habilidades
+## Projeto em destaque | Featured project
 
-### Programming languages / Linguagens de programação
-- Python
-- SQL (basic / básico)
-- HTML
-- CSS
-- JavaScript (basic / básico)
+### [Reserva de Carrinhos Escolares](https://github.com/Antonny234/Projeto-Reservar_carrinhos_escola)
 
-### Frameworks and tools / Frameworks e ferramentas
-- Django
-- Git / GitHub
-- VS Code
-- Figma (basic / básico)
-- Linux / Windows environment
+Sistema web para ajudar professores e responsáveis a consultar a disponibilidade e reservar carrinhos de notebooks para uso em aulas.
 
-### Knowledge / Conhecimentos
-- Object-oriented programming / Programação orientada a objetos
-- Backend fundamentals / Fundamentos de backend
-- REST concepts / Conceitos de REST
-- Database basics / Noções de banco de dados
-- System organization and teamwork / Organização de sistema e trabalho em equipe
+A web system that helps teachers and staff check availability and reserve laptop carts for classroom use.
 
-## Experience / Experiência
+**Tecnologias:** Python · Django · HTML · CSS · JavaScript
 
-- Administrative assistant / Assistente administrativo
-- Cargo handling assistant / Auxiliar de movimentação de carga
-- Production operator / Operador de produção
-- Junior billing / Faturista Jr.
-- Internship / Estágio atual
-
-These experiences developed my discipline, responsibility, teamwork, organization, and ability to adapt to different work environments.
-
-Essas experiências fortaleceram minha disciplina, responsabilidade, trabalho em equipe, organização e capacidade de adaptação a diferentes ambientes de trabalho.
-
-## Education / Formação
-
-- Graduation in Computer Science / Graduação em Ciência da Computação - UNFRAN (in progress / em andamento)
-- Technical course in building electrical systems / Curso técnico em Eletricista Predial
-- Basic computer literacy / Informática básica
-
-## Projects / Projetos
-
-### GTRP Presentation / Apresentação GTRP
-Project focused on presenting a system for booking school carts and notebooks.
-
-Projeto focado na apresentação de um sistema para reserva de carrinhos e notebooks escolares.
-
-- Django / Python
-- Frontend presentation page / Página de apresentação frontend
-- System concept and institutional presentation / Conceito de sistema e apresentação institucional
-
-### Reserve School Carts / Reserva de carrinhos escolares
-Project developed to help teachers identify which cart is in use and which can be reserved for classes.
-
-Projeto desenvolvido para auxiliar professores a identificar quais carrinhos estão em uso e quais podem ser reservados para aulas.
+## Tecnologias | Technologies
 
 - Python
 - Django
-- Logic for reservation control / Lógica de controle de reservas
-- Practical system application / Aplicação prática de sistema
+- HTML, CSS e JavaScript
+- Git e GitHub
+- SQL e fundamentos de banco de dados
+- Programação orientada a objetos
 
-## Goals / Objetivos
+## Formação | Education
 
-I am looking for opportunities to begin my career in technology, especially in Python and Django development. I want to contribute to real projects, continue learning, and grow in a professional environment.
+- **Ciência da Computação — UNIFRAN** *(em andamento)*
+- Curso de Eletricista Predial
+- Informática Básica
 
-Estou em busca de oportunidades para iniciar minha carreira na tecnologia, especialmente em desenvolvimento com Python e Django. Quero contribuir em projetos reais, continuar aprendendo e crescer em um ambiente profissional.
+## Experiência | Experience
 
-## Contact / Contato
+Minha trajetória inclui experiências como faturista júnior, auxiliar de movimentação de carga, operador de produção e estagiário. Essas experiências contribuíram para o desenvolvimento de organização, responsabilidade, trabalho em equipe, disciplina e adaptação.
 
-- Email: [seu-email@example.com]
-- LinkedIn: [seu-linkedin]
-- GitHub: https://github.com/Antonny234
+My background includes experience as a junior billing clerk, cargo handling assistant, production operator, and intern. These experiences helped me develop organization, responsibility, teamwork, discipline, and adaptability.
 
-## Languages / Idiomas
+## Objetivo | Career goal
 
-- Portuguese / Português: Native / Nativo
-- English / Inglês: Intermediate / Intermediário
+Busco minha primeira oportunidade na área de tecnologia, especialmente em desenvolvimento backend com Python e Django. Estou aberto a aprender, colaborar em projetos reais e crescer em um ambiente profissional.
 
----
+I am looking for my first opportunity in technology, especially in backend development with Python and Django. I am eager to learn, contribute to real projects, and grow in a professional environment.
+
+## Contato | Contact
+
+- GitHub: [github.com/Antonny234](https://github.com/Antonny234)
+- E-mail: **adicione seu e-mail aqui**
+- LinkedIn: **adicione seu LinkedIn aqui**
+
+## Idiomas | Languages
+
+- Português: nativo | Native
+- Inglês: intermediário | Intermediate
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonny234&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Antonny234&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </div>
